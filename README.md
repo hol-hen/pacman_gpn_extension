@@ -1,5 +1,6 @@
-Extension for GPN - Pacman 
+# Extension for GPN - Pacman 
 
+## What needs done?
 - Animate pacman to open and close mouth
 - Move pacman with arrow keys
 - Ghost move randomishly towards pacman
@@ -7,7 +8,6 @@ Extension for GPN - Pacman
 - Let pacman eat dots, and add to score
 - Hearts taken if Pacman caught by ghost
 - Gameover for zero hearts
-
 - Add cherries and coins as extensions
 
-- 
+## Image upon opening
