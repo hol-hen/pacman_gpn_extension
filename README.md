@@ -11,3 +11,5 @@
 - Add cherries and coins as extensions
 
 ## Image upon opening
+![Screenshot 2024-05-01 173052](https://github.com/hol-hen/pacman_gpn_extension/assets/115449832/3ff8f233-708f-477e-ae4d-6a76a77abb88)
+
